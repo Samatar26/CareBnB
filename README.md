@@ -1,5 +1,5 @@
 # CareBnB
-![travis](https://travis-ci.org/samatar26/CareBnB.svg?branch=staging)
+![travis](https://travis-ci.org/Samatar26/CareBnB.svg?branch=staging)
 [![Code Coverage](https://codecov.io/gh/samatar26/CareBnB/branch/staging/graph/badge.svg)](https://codecov.io/gh/samatar26/CareBnB)
 
 Heroku: http://carebnbfac.herokuapp.com/
