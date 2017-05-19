@@ -9,7 +9,7 @@ const routes = [
   { url: '/seeker_step2', method: 'GET', statusCode: 200 },
   // { url: '/results', method: 'POST', statusCode: 200 },
   { url: '/getUsers', method: 'GET', statusCode: 200 },
-  { url: '/detailedresults', method: 'GET', statusCode: 200 },
+  // { url: '/detailedresults', method: 'GET', statusCode: 200 },
   { url: '/facebookLogin', method: 'GET', statusCode: 302 },
   { url: '/registration', method: 'GET', statusCode: 200 },
   { url: '/thankyou', method: 'POST', statusCode: 500 },
